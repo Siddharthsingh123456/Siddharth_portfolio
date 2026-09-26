@@ -128,14 +128,19 @@ contactForm?.addEventListener("submit", (e) => {
   const message = messageField?.value.trim() || ""
 
   if (name && email && message) {
-    console.log("[v0] Form submitted:", { name, email, message })
-    alert("Thank you for your message! We will get back to you soon.")
+    const companyField = document.getElementById("company")
+    const company = companyField?.value.trim() || ""
+    const subject = encodeURIComponent(`Portfolio enquiry from ${name}`)
+    const body = encodeURIComponent(
+      `Name: ${name}\nEmail: ${email}\nCompany: ${company || "Not provided"}\n\nMessage:\n${message}`
+    )
+
+    window.location.href = `mailto:sid123singh123456@gmail.com?subject=${subject}&body=${body}`
     contactForm.reset()
   } else {
     alert("Please fill in all required fields.")
   }
 })
-
 // Active Navigation Link on Scroll
 window.addEventListener("scroll", () => {
   let current = ""
