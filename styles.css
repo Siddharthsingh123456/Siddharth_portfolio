@@ -1425,9 +1425,8 @@ section {
         );
 }
 
-.featured .project-image,
-.regular-projects .project-image {
-    height: auto;
+.project-image {
+    height: 220px;
 }
 
 .project-image::after {
