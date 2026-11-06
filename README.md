@@ -1,142 +1,97 @@
 # Siddharth Singh — AI & Full-Stack Developer Portfolio
 
-<p align="center"><strong>Building intelligent products at the intersection of AI, full-stack engineering, and developer experience.</strong></p>
+<p align="center">
+  <strong>Building practical AI products and polished full-stack web experiences.</strong>
+</p>
 
-<p align="center"><a href="https://siddharth-portfolio-8yxo.vercel.app">🌐 Live Portfolio</a> · <a href="https://github.com/Siddharthsingh123456">GitHub Profile</a> · <a href="#selected-products">Selected Products</a></p>
+<p align="center">
+  <a href="https://siddharth-portfolio-8yxo.vercel.app">Live Portfolio</a> ·
+  <a href="https://github.com/Siddharthsingh123456">GitHub Profile</a>
+</p>
 
-![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=111) ![JavaScript](https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111) ![AI](https://img.shields.io/badge/AI%2FML-Product%20Engineering-9B8CFF?style=for-the-badge) ![Vercel](https://img.shields.io/badge/Vercel-Production-000000?style=for-the-badge&logo=vercel)
+![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=111)
+![JavaScript](https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![AI](https://img.shields.io/badge/AI%2FML-Product%20Engineering-9B8CFF?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-## ✦ About
+## About
 
 I'm **Siddharth Singh**, a MERN Stack / Full-Stack Developer focused on building practical AI-powered products and polished web experiences.
 
-- 🎓 **BCA** — Veer Bahadur Singh Purvanchal University
-- 🎓 **MCA** — Shri Ramswaroop Memorial University
-- 💻 **1+ year** hands-on development experience
-- 🧠 Focus: **MERN · AI/ML · NLP · Computer Vision · Automation**
-- 🚀 Building a connected ecosystem of focused AI products
+- 🎓 BCA — Veer Bahadur Singh Purvanchal University
+- 🎓 MCA — Shri Ramswaroop Memorial University
+- 💻 1+ year of hands-on development experience
+- 🧠 Focus areas: MERN, AI/ML, NLP, computer vision, and automation
 
-> **My approach:** turn complex AI capabilities into interfaces that people can actually use.
+My approach is to turn useful engineering and AI capabilities into interfaces that people can understand and use.
 
----
+## Selected AI Products
 
-## 🚀 Selected Products
+| Project | Focus | Repository |
+|---|---|---|
+| AI Resume Builder | Resume creation, refinement, and preview | [Source](https://github.com/Siddharthsingh123456/ai-resume-builder) |
+| AI Interview Simulator | Role-aware interview practice and feedback | [Source](https://github.com/Siddharthsingh123456/ai-interview-simulator) |
+| AI Quiz Generator | Topic-based quiz generation and practice | [Source](https://github.com/Siddharthsingh123456/ai-quiz-generator) |
+| AI Summarizer | Structured summaries in multiple styles | [Source](https://github.com/Siddharthsingh123456/ai-summarizer) |
+| AI Notes | Note organization and AI-assisted refinement | [Source](https://github.com/Siddharthsingh123456/ai-notes) |
+| AI PDF Chat | Question answering over PDF text | [Source](https://github.com/Siddharthsingh123456/ai-pdf-chat) |
+| AI Code Assistant | Code explanation, review, and improvement | [Source](https://github.com/Siddharthsingh123456/ai-code-assistant) |
+| AI Chat Assistant | Conversational AI workspace | [Source](https://github.com/Siddharthsingh123456/ai-chat-assistant) |
+| AI Legal Assistant | Legal information interface and learning project | [Source](https://github.com/Siddharthsingh123456/ai-legal-assistant) |
 
-This portfolio showcases the current AI product ecosystem. Each product has its own visual identity, workflow, and focused use case.
+Project capabilities and deployment status may evolve. Use each repository's README for current setup and configuration instructions.
 
-| # | Product | What it does | Live | Source |
-|---|---|---|---|---|
-| 01 | **AI Developer OS** | Unified workspace for developer AI tools and agents | [Launch](https://ai-developer-os.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/AI-Developer-OS) |
-| 02 | **AI Resume Builder** | AI-assisted resume creation, refinement and preview | [Launch](https://ai-resume-builder.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-resume-builder) |
-| 03 | **AI Interview Simulator** | Role-aware interview practice and AI feedback | [Launch](https://ai-interview-simulator.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-interview-simulator) |
-| 04 | **AI Quiz Generator** | Generate focused quizzes for learning and revision | [Launch](https://ai-quiz-generator.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-quiz-generator) |
-| 05 | **AI Summarizer** | Convert long-form content into useful summaries | [Launch](https://ai-summarizer.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-summarizer) |
-| 06 | **AI Notes** | Organize and transform notes with AI assistance | [Launch](https://ai-notes.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-notes) |
-| 07 | **AI PDF Chat** | Ask questions and work with PDF content | [Launch](https://ai-pdf-chat.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-pdf-chat) |
-| 08 | **AI Code Assistant** | Explain, improve and work with code using AI | [Launch](https://ai-code-assistant.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-code-assistant) |
-| 09 | **AI Chat Assistant** | Conversational AI for research, writing and problem solving | [Launch](https://ai-chat-assistant.vercel.app) | [GitHub](https://github.com/Siddharthsingh123456/ai-chat-assistant) |
+## Other Learning & Development Repositories
 
-Vercel provides production domains for deployed projects, while Git-connected projects can automatically redeploy from the production branch. citeturn0search0turn0search7
+- [GenAI assignments](https://github.com/Siddharthsingh123456/Gen_Ai) — Python, ML, NLP, RAG, agents, and LLM workflows
+- [Python](https://github.com/Siddharthsingh123456/Python) — Python fundamentals and practical applications
+- [Machine Learning](https://github.com/Siddharthsingh123456/Machine-Learning) — model training and evaluation exercises
+- [Deep Learning](https://github.com/Siddharthsingh123456/Deep-Learning) — neural networks and deep learning notebooks
+- [NLP](https://github.com/Siddharthsingh123456/NLP) — natural language processing assignments
+- [Data Science](https://github.com/Siddharthsingh123456/Data_Science) — analysis, visualization, and predictive modeling
+- [MERN](https://github.com/Siddharthsingh123456/MERN) — full-stack JavaScript learning repository
 
----
+## Technology Toolkit
 
-## 🧩 Product Philosophy
+**Frontend:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS  
+**Backend:** Node.js, Express.js, Python, Flask, Django, REST APIs  
+**AI / ML:** Machine Learning, Deep Learning, NLP, OpenCV, OpenAI, Hugging Face  
+**Data:** MongoDB, PostgreSQL, NumPy, Pandas, Matplotlib  
+**Engineering:** Git, GitHub, Docker, AWS, Vercel, Selenium
 
-The projects are intentionally **not clones of one another**. Each application has its own visual language, navigation pattern, typography, color system, workspace layout, CTA treatment, form controls, footer, AI workflow, and interaction model.
+## Run This Portfolio Locally
 
-The goal is to demonstrate **product engineering**, not just UI implementation.
-
----
-
-## 🛠️ Core Technology Stack
-
-**Frontend:** HTML · CSS · JavaScript · React · Vite · Tailwind CSS  
-**Backend:** Node.js · Express.js · Python · Flask · Django · REST APIs  
-**AI / ML:** Machine Learning · Deep Learning · NLP · OpenCV · OpenAI · Hugging Face  
-**Data:** MongoDB · PostgreSQL · NumPy · Pandas · Matplotlib  
-**Engineering:** Git · GitHub · Docker · AWS · Vercel · Selenium
-
----
-
-## 🏗️ Portfolio Architecture
-
-```text
-Siddharth Portfolio
-        │
-        ▼
- Product Showcase
-        │
-        ▼
- AI Product Ecosystem
-        │
- ┌──────┼────────┐
- ▼      ▼        ▼
-Dev AI  Career AI Productivity AI
- │       │        │
- ▼       ▼        ▼
-OS     Resume   Notes / PDF /
-       Interview Summary / Quiz /
-       Chat      Chat
-```
-
----
-
-## ✨ Highlights
-
-- Premium responsive project showcase
-- Product-specific project visuals
-- Direct live deployment links
-- Direct source-code links
-- Flagship presentation for AI Developer OS
-- Responsive desktop, tablet and mobile layouts
-- Interactive navigation
-- Dark futuristic visual system
-- Semantic portfolio sections
-- GitHub-first project discoverability
-
----
-
-## 📁 Repository
-
-```text
-Siddharth_portfolio/
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
-```
-
-No framework or build step is required for the portfolio itself.
-
----
-
-## ▶️ Run Locally
+This repository is a static website.
 
 ```bash
 git clone https://github.com/Siddharthsingh123456/Siddharth_portfolio.git
 cd Siddharth_portfolio
 ```
 
-Open `index.html` in a browser or serve the folder with any static web server.
+Open `index.html` in a browser or serve the directory with a local static web server. No package installation is required for the static portfolio.
+
+## Repository Structure
+
+```text
+Siddharth_portfolio/
+├── index.html
+├── styles.css
+├── script.js
+├── vercel.json
+└── README.md
+```
+
+## Deployment
+
+The portfolio is configured for Vercel. Import the repository, use the repository root as the project root, and deploy the static site. Confirm the live URL and deployment settings in Vercel.
+
+## Connect
+
+- GitHub: https://github.com/Siddharthsingh123456
+- Portfolio: https://siddharth-portfolio-8yxo.vercel.app
 
 ---
 
-## 🌐 Live Portfolio
-
-**Production:** https://siddharth-portfolio-8yxo.vercel.app
-
-Vercel's Git integration supports automatic production redeployment when changes reach the configured production branch. citeturn0search7turn0search10
-
----
-
-## 📬 Connect
-
-- **GitHub:** https://github.com/Siddharthsingh123456
-- **Portfolio:** https://siddharth-portfolio-8yxo.vercel.app
-- **LinkedIn:** Add your preferred LinkedIn URL here
-
----
-
-<p align="center"><strong>Build. Learn. Ship. Repeat.</strong><br><sub>Designed and engineered by Siddharth Singh.</sub></p>
+<p align="center"><strong>Build. Learn. Ship. Improve.</strong></p>
